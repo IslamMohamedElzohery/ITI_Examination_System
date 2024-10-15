@@ -59,7 +59,7 @@ Note: if you want to try these stored procedures please download the full databa
 
 
 ## Reports 
-these reports generated from Stored Procedures for reports through PowerBi Report Builder <br>
+these reports generated from Stored Procedures  through PowerBi Report Builder <br>
 for full report please go to [All Reports](./Reports)
 
 ## PowerBi Dashboard
