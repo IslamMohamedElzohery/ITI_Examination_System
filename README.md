@@ -63,7 +63,7 @@ these reports generated from Stored Procedures  through PowerBi Report Builder <
 for full report please go to [All Reports](./Reports)
 
 ## PowerBi Dashboard
-Here's Some of the Dashboards that's  been implemented through the system <br>
+Here's Some of the Dashboards that's been implemented through the  Examination system  using  power Bi<br>
 
 ![image](https://github.com/user-attachments/assets/0688ba43-fc70-4b01-bc88-6216f3d4a51c)
 
